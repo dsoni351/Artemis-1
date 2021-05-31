@@ -53,7 +53,7 @@ class Sidebar extends Component {
     return (
       <nav className="sidebar sidebar-offcanvas" id="sidebar">
         <div className="text-center sidebar-brand-wrapper d-flex align-items-center" style={{backgroundColor: "#f3f3f3", borderRadius: "42px"}}>
-          <a className="sidebar-brand brand-logo" href="index.html"><img src="https://shuffle.dev/artemis-assets/logos/artemis-logo-light.svg" alt="logo" /></a>
+          <a className="sidebar-brand brand-logo" href="/dashboard"><img src="https://shuffle.dev/artemis-assets/logos/artemis-logo-light.svg" alt="logo" /></a>
           
         </div>
         <h6 className="" style={{color: "white",marginLeft: "15px", marginTop: "34px"}}>Main</h6>
