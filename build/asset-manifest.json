@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Artemis/static/css/main.996b6913.chunk.css",
+    "main.js": "/Artemis/static/js/main.b8431683.chunk.js",
+    "main.js.map": "/Artemis/static/js/main.b8431683.chunk.js.map",
+    "runtime~main.js": "/Artemis/static/js/runtime~main.971998e3.js",
+    "runtime~main.js.map": "/Artemis/static/js/runtime~main.971998e3.js.map",
+    "static/js/2.34ea1079.chunk.js": "/Artemis/static/js/2.34ea1079.chunk.js",
+    "static/js/2.34ea1079.chunk.js.map": "/Artemis/static/js/2.34ea1079.chunk.js.map",
+    "static/css/3.57ac40b9.chunk.css": "/Artemis/static/css/3.57ac40b9.chunk.css",
+    "static/js/3.1cc06fff.chunk.js": "/Artemis/static/js/3.1cc06fff.chunk.js",
+    "static/js/3.1cc06fff.chunk.js.map": "/Artemis/static/js/3.1cc06fff.chunk.js.map",
+    "static/js/4.d5ad90b0.chunk.js": "/Artemis/static/js/4.d5ad90b0.chunk.js",
+    "static/js/4.d5ad90b0.chunk.js.map": "/Artemis/static/js/4.d5ad90b0.chunk.js.map",
+    "static/js/5.f1a80492.chunk.js": "/Artemis/static/js/5.f1a80492.chunk.js",
+    "static/js/5.f1a80492.chunk.js.map": "/Artemis/static/js/5.f1a80492.chunk.js.map",
+    "static/js/6.a92b29d5.chunk.js": "/Artemis/static/js/6.a92b29d5.chunk.js",
+    "static/js/6.a92b29d5.chunk.js.map": "/Artemis/static/js/6.a92b29d5.chunk.js.map",
+    "index.html": "/Artemis/index.html",
+    "precache-manifest.1d277b78999942d6a94fdbdc873302ae.js": "/Artemis/precache-manifest.1d277b78999942d6a94fdbdc873302ae.js",
+    "service-worker.js": "/Artemis/service-worker.js",
+    "static/css/3.57ac40b9.chunk.css.map": "/Artemis/static/css/3.57ac40b9.chunk.css.map",
+    "static/css/main.996b6913.chunk.css.map": "/Artemis/static/css/main.996b6913.chunk.css.map",
+    "static/media/App.scss": "/Artemis/static/media/zw.8b885465.svg",
+    "static/media/face1.jpg": "/Artemis/static/media/face1.90a61a0b.jpg",
+    "static/media/face10.jpg": "/Artemis/static/media/face10.e19994a5.jpg",
+    "static/media/face12.jpg": "/Artemis/static/media/face12.dd16c119.jpg",
+    "static/media/face8.jpg": "/Artemis/static/media/face8.16958c47.jpg",
+    "static/media/logo-mini.svg": "/Artemis/static/media/logo-mini.8539ea86.svg",
+    "static/media/logo.svg": "/Artemis/static/media/logo.807f07af.svg"
+  }
+}
