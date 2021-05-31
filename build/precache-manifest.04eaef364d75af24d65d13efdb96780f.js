@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "123197f12ce8e912a35144cddebbf677",
+    "revision": "90f3472cde1e7ec5000876a0a77ff920",
     "url": "/Artemis/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Artemis/static/css/3.57ac40b9.chunk.css"
   },
   {
-    "revision": "f0eae7a0258dd8b33a73",
+    "revision": "568fea59f2b5b554494e",
     "url": "/Artemis/static/css/main.996b6913.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Artemis/static/js/6.a92b29d5.chunk.js"
   },
   {
-    "revision": "f0eae7a0258dd8b33a73",
-    "url": "/Artemis/static/js/main.b8431683.chunk.js"
+    "revision": "568fea59f2b5b554494e",
+    "url": "/Artemis/static/js/main.d825fe34.chunk.js"
   },
   {
     "revision": "8b4f383942dd7e39c809",
