@@ -4,12 +4,7 @@ import { Dropdown } from 'react-bootstrap';
 import SearchIcon from '@material-ui/icons/Search';
 
 class Navbar extends Component {
-  toggleOffcanvas() {
-    document.querySelector('.sidebar-offcanvas').classList.toggle('active');
-  }
-  toggleRightSidebar() {
-    document.querySelector('.right-sidebar').classList.toggle('open');
-  }
+ 
   render () {  
     return (
       <nav className="navbar col-lg-12 col-12 p-lg-0 fixed-top d-flex flex-row">

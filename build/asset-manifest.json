@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Artemis/static/css/main.996b6913.chunk.css",
-    "main.js": "/Artemis/static/js/main.d825fe34.chunk.js",
-    "main.js.map": "/Artemis/static/js/main.d825fe34.chunk.js.map",
+    "main.js": "/Artemis/static/js/main.1c5b3ade.chunk.js",
+    "main.js.map": "/Artemis/static/js/main.1c5b3ade.chunk.js.map",
     "runtime~main.js": "/Artemis/static/js/runtime~main.971998e3.js",
     "runtime~main.js.map": "/Artemis/static/js/runtime~main.971998e3.js.map",
     "static/js/2.34ea1079.chunk.js": "/Artemis/static/js/2.34ea1079.chunk.js",
@@ -17,7 +17,7 @@
     "static/js/6.a92b29d5.chunk.js": "/Artemis/static/js/6.a92b29d5.chunk.js",
     "static/js/6.a92b29d5.chunk.js.map": "/Artemis/static/js/6.a92b29d5.chunk.js.map",
     "index.html": "/Artemis/index.html",
-    "precache-manifest.04eaef364d75af24d65d13efdb96780f.js": "/Artemis/precache-manifest.04eaef364d75af24d65d13efdb96780f.js",
+    "precache-manifest.155773d34d0cc7dfd82374405e1563d4.js": "/Artemis/precache-manifest.155773d34d0cc7dfd82374405e1563d4.js",
     "service-worker.js": "/Artemis/service-worker.js",
     "static/css/3.57ac40b9.chunk.css.map": "/Artemis/static/css/3.57ac40b9.chunk.css.map",
     "static/css/main.996b6913.chunk.css.map": "/Artemis/static/css/main.996b6913.chunk.css.map",
